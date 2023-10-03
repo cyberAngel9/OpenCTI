@@ -23,10 +23,10 @@ OpenCTI is an open-source cyber threat intelligence platform that combines a kno
 
 Connectors play a crucial role in linking to the database and fetching data for viewing in OpenCTI. There are five distinct types of connectors: External Import, Internal Enrichment, Internal Export File, Internal Import File, and Stream. I opted for the External Import connector. Some of these connectors require an API, an OpenCTI Token, and a Connector ID. After obtaining all the necessary information, the process becomes as simple as copying and pasting it into Portainer under the stack details. Once the stack is updated, the data will start populating in OpenCTI, although it's important to note that some data uploads may take a while.
 
-## The Connectors in using
-"Image here"
-
 Overall, my first experience with an open-source cyber threat intelligence platform went quite well. Additionally, I found it particularly advantageous that I can add as much data as I need, provided I have sufficient storage capacity.
 
-## My Dashbord 
+### The Connectors in using
+"Image here"
+
+### My Dashbord 
 "Image here"
