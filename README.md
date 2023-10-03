@@ -28,5 +28,5 @@ Overall, my first experience with an open-source cyber threat intelligence platf
 ### The Connectors in using
 ![OpenCTI Connected](https://github.com/cyberAngel9/OpenCTI-Project/assets/82012925/72595e98-11a4-4dcc-87fd-24a26d01f74e)
 
-### My Dashbord 
+### My Dashboard 
 ![image](https://github.com/cyberAngel9/OpenCTI-Project/assets/82012925/fc5c6d1e-ecd0-455c-98ac-32f47dc7801e)
