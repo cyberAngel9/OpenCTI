@@ -7,7 +7,7 @@ OpenCTI Github
 https://github.com/OpenCTI-Platform
 ```
 
-0xBEN walk-through
+0xBEN Walk-Through
 ```
 https://benheater.com/proxmox-running-opencti/
 ```
