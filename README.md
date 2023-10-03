@@ -1,6 +1,6 @@
 # OpenCTI-Project by CyberAngel9
 
-Before I start let me go ahead and give full credit to 0xBEN and everyone behinf the OpenCTI github. 
+Before I begin, I want to give full credit to 0xBEN and everyone behind the OpenCTI GitHub project. 
 
 OpenCTI Github
 ```
