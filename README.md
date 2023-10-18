@@ -25,7 +25,7 @@ Connectors play a crucial role in linking to the database and fetching data for 
 
 Overall, my first experience with an open-source cyber threat intelligence platform went quite well. Additionally, I found it particularly advantageous that I can add as much data as I need, provided I have sufficient storage capacity.
 
-### The Connectors in using
+### The Connectors in use
 ![OpenCTI Connected](https://github.com/cyberAngel9/OpenCTI-Project/assets/82012925/72595e98-11a4-4dcc-87fd-24a26d01f74e)
 
 ### My Dashboard 
