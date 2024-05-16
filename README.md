@@ -1,4 +1,4 @@
-# OpenCTI-Project by CyberAngel9
+# OpenCTI by CyberAngel9
 
 Before I begin, I want to give full credit to 0xBEN and everyone behind the OpenCTI GitHub project. 
 
